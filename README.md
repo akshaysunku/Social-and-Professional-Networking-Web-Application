@@ -13,7 +13,7 @@ This is a simple Web Application that consists of features of both Social and Pr
 
 #### Python files setup
 1. Create a twitter account and get the `CONSUMER_KEY`, `CONSUMER_SECRET`, `ACCESS_TOKEN_KEY` and `ACCESS_TOKEN_SECRET`. 
-2. Add these credential in the files `TwitterFollowingList` and `TrendingTweets`. 
+2. Add these credential in the files `TwitterFollowingList.py` and `TrendingTweets.py`. 
 2. Launch jupyter notebook and run the file `JobRecommender.py`.
 
 #### Project Configuration Steps
